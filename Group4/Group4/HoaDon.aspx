@@ -6,7 +6,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
     <asp:FormView ID="FormView1" runat="server" DataKeyNames="Mahd" DataSourceID="SqlDataSource1">
         <EditItemTemplate>
-            Mahd:
+            Mahds:
             <asp:Label Text='<%# Eval("Mahd") %>' runat="server" ID="MahdLabel1" /><br />
             Sohd:
             <asp:TextBox Text='<%# Bind("Sohd") %>' runat="server" ID="SohdTextBox" /><br />
