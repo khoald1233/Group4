@@ -27,7 +27,7 @@
                         </asp:FormView>
                         <asp:SqlDataSource runat="server" ID="SqlDataSource1" ConnectionString='<%$ ConnectionStrings:QLBANHANG_NHOM4ConnectionString %>' SelectCommand="SELECT [Ten], [Gia] FROM [SanPham]"></asp:SqlDataSource>
                     </div>
-                    <button >Mua ngay <button>
+                    <button >Mua ngay bay gio <button>
                 </div>
             </div>
             <div class="container">
