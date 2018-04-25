@@ -11,7 +11,7 @@
             <h3>Phone: 0963641159</h3>
         </header>
         
-      hellofjksdaklfhaskjfjlsdak
+      
     </section>
 
     <section class="contact">
